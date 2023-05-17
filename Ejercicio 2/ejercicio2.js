@@ -1,6 +1,6 @@
 const h2Resultado = document.querySelector("#saludo-resultado");
 
-const SALUDOS_MAXIMOS = 5;
+const SALUDOS_MAXIMOS = 30;
 
 for (let i = 0; i < SALUDOS_MAXIMOS ; i++) {
  
